@@ -2,6 +2,7 @@
 rq is a simple, lightweight, library for creating background jobs, and
 processing them.
 """
+
 import sys
 import os
 from setuptools import setup, find_packages
